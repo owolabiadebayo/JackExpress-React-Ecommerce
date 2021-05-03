@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1f179257.chunk.css",
+    "main.js": "/static/js/main.11a4675c.chunk.js",
+    "main.js.map": "/static/js/main.11a4675c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5e45bd3a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5e45bd3a.js.map",
+    "static/css/2.bf0413c3.chunk.css": "/static/css/2.bf0413c3.chunk.css",
+    "static/js/2.a67ae068.chunk.js": "/static/js/2.a67ae068.chunk.js",
+    "static/js/2.a67ae068.chunk.js.map": "/static/js/2.a67ae068.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a658246e02b8b818f9714c77b9b0019b.js": "/precache-manifest.a658246e02b8b818f9714c77b9b0019b.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.bf0413c3.chunk.css.map": "/static/css/2.bf0413c3.chunk.css.map",
+    "static/css/main.1f179257.chunk.css.map": "/static/css/main.1f179257.chunk.css.map",
+    "static/js/2.a67ae068.chunk.js.LICENSE.txt": "/static/js/2.a67ae068.chunk.js.LICENSE.txt",
+    "static/media/4.jpg": "/static/media/4.94031000.jpg",
+    "static/media/6.jpg": "/static/media/6.94031000.jpg",
+    "static/media/Access.jpg": "/static/media/Access.a0220567.jpg",
+    "static/media/Accessories.jpg": "/static/media/Accessories.69e53020.jpg",
+    "static/media/Earpud.jpg": "/static/media/Earpud.e0c73681.jpg",
+    "static/media/Phone1.jpg": "/static/media/Phone1.edf24d0e.jpg",
+    "static/media/Samsung.jpg": "/static/media/Samsung.e7662c51.jpg",
+    "static/media/logo1.jpg": "/static/media/logo1.99e9cf36.jpg",
+    "static/media/ps5.jpg": "/static/media/ps5.ce63f255.jpg",
+    "static/media/slick-theme.css": "/static/media/slick.f97e3bbf.svg",
+    "static/media/Login.css": "/static/media/wallpaper.99e9cf36.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e45bd3a.js",
+    "static/css/2.bf0413c3.chunk.css",
+    "static/js/2.a67ae068.chunk.js",
+    "static/css/main.1f179257.chunk.css",
+    "static/js/main.11a4675c.chunk.js"
+  ]
+}
